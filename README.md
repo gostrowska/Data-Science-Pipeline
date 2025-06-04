@@ -29,7 +29,7 @@ Customers are still leaving valuable feedback in the text of their reviews, but 
 This model will analyze the text of a review, the customer's age, the product category, and other relevant information to predict whether or not the customer would recommend the product.
 
 ## File Descriptions <a name="files"></a>
-There is 1 notebook available [here](Project1_Boston_Kaggle.ipynb)
+There is 1 notebook available [here](https://github.com/gostrowska/Data-Science-Pipeline/blob/main/starter.ipynb)
 There is a dataset used in analysis available [here](https://github.com/gostrowska/Data-Science-Pipeline/tree/main/data)
 The dataset has been anonymized and cleaned of missing values.
 
