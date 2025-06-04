@@ -29,7 +29,7 @@ This model will analyze the text of a review, the customer's age, the product ca
 
 ## File Descriptions <a name="files"></a>
 There is 1 notebook available [here](Project1_Boston_Kaggle.ipynb)
-There is a dataset used in analysis available [here](Project1_Boston_Kaggle.ipynb)
+There is a dataset used in analysis available [here](https://github.com/gostrowska/Data-Science-Pipeline/tree/main/data)
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 Licensing for the data and other descriptive information of a dataset is [Udacity]([https://learn.udacity.com]).<br />
